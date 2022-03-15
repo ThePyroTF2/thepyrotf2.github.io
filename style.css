@@ -1,14 +1,23 @@
 body
 {
-    background-color: orange;
-    text-align: center;
+    background-color: white;
     font-family: "Comic Sans MS", "Comic Sans", 'Times New Roman', Times, serif;
     overflow-wrap: break-word;
 }
 
-.comic
+.left
 {
-    font-family: "Comic Sans MS";
+    text-align: left;
+}
+
+.right
+{
+    text-align: right;
+}
+
+.center
+{
+    text-align: center;
 }
 
 p
